@@ -18,7 +18,7 @@ banner = '''
 
 
 
-                                                github : assss
+                                                github : https://github.com/yawoss35/
 '''
 
 def temizle():
